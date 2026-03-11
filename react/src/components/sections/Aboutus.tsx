@@ -1,5 +1,5 @@
 import Container from "../shared/Container"
-import pic from "../../assets/pexels-spacex-60130.jpg" 
+import pic from "/assets/pexels-spacex-60130.jpg" 
 import Title from "../shared/Title"
 import Paragraph from "../shared/Paragraph"
 import Info from "../cards/Info"

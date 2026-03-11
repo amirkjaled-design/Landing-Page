@@ -1,5 +1,5 @@
 import Container from "../shared/Container"
-import logo from "../../assets/Screenshot 2025-09-11 1312121.png"
+import logo from "/assets/Screenshot 2025-09-11 1312121.png"
 import Navitem from "../shared/Navitems"
 import { navItems } from "./Navbar"
 

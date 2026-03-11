@@ -1,7 +1,7 @@
 import Button from "../shared/Button"
 import Container from "../shared/Container"
 import Paragraph from "../shared/Paragraph"
-import pic from "../../assets/pexels-kindelmedia-9889054.jpg"
+import pic from "/assets/pexels-kindelmedia-9889054.jpg"
 import Numbers from "./Numbers"
 
 
